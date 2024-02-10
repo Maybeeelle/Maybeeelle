@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <div id="header" align="center" >
   <img src= "https://i.pinimg.com/originals/fe/f8/65/fef865f1df5fa7bfefafaa56f4d7aaec.gif" width="120"/>
   <div id="badges">
-    <a href="facebook-url">
+    <a href="https://www.facebook.com/maybelle.quidespatetico">
       <img src="https://img.shields.io/badge/%20Facebook-20B2AA?logo=facebook&logoColor=white&color=blue&style=for-the-badge" >
     </a>
-    <a href="linkedin-url">
+    <a href="https://www.linkedin.com/in/maybelle-patetico-026a202a2/">
       <img src="https://img.shields.io/badge/%20LinkedIn-20B2AA?logo=linkedIn&logoColor=white&color=purple&style=for-the-badge">
     </a>
-    <a href="instagram-url">
+    <a href="https://www.instagram.com/maiblynnn/">
       <img src="https://img.shields.io/badge/%20Instagram-20B2AA?logo=instagram&logoColor=white&color=blue&style=for-the-badge">
     </a>
   </div>
