@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Maybeeelle/Maybeeelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,14 +29,11 @@ Here are some ideas to get you started:
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Maybeeelle&style=flat-square&color=blue" alt=""/>
-  <h2 >Hi! I'm Maybelle UwU</h2>
+  <h2 style="font-family: cursive;">Hi! I'm Maybelle! UwU</h2>
 </div>
 <div align="center">
   <img src="https://64.media.tumblr.com/ece89fcb5b72631cf76c1f517f9b9098/9fa2d86d31636773-d7/s500x750/ac9a600be2e7626f502e282d42cc7aa6816c6b06.gifv" width="600" height="300"/>
-</div>
-
-
-
+  
 ### 👩‍💻About Me :
 I'm a Computer Science student from the University of the Philippines-Los Banos💗.
  - 🌱 Currently immersing myself in the world of Computer Science.
@@ -74,6 +71,10 @@ _ _ _
 ### ✍️Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+</div>
+
+
+
 
 
 
