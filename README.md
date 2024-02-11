@@ -33,12 +33,17 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   <img src="https://64.media.tumblr.com/ece89fcb5b72631cf76c1f517f9b9098/9fa2d86d31636773-d7/s500x750/ac9a600be2e7626f502e282d42cc7aa6816c6b06.gifv" width="600" height="300"/>
-  
+
+
 ### 👩‍💻About Me :
+<div align="left">
+  
+
 I'm a Computer Science student from the University of the Philippines-Los Banos💗.
  - 🌱 Currently immersing myself in the world of Computer Science.
  - ⚡In m free time, I usually read some tech articles.
  - 📫You can reach me: [![Facebook Badge](https://img.shields.io/badge/%20Facebook-20B2AA?logo=facebook&logoColor=white&color=blue&style=flat)](https://www.facebook.com/maybelle.quidespatetico)
+</div>
 _ _ _
 
 ### 🛠️Languages and Tools:
