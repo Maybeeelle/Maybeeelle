@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### 👩‍💻About Me :
 I'm a Computer Science student from the University of the Philippines-Los Banos💗.
  - 🌱 Currently immersing myself in the world of Computer Science.
- - ⚡In m free time, I usually read tech some articles.
+ - ⚡In m free time, I usually read some tech articles.
  - 📫You can reach me: [![Facebook Badge](https://img.shields.io/badge/%20Facebook-20B2AA?logo=facebook&logoColor=white&color=blue&style=flat)](https://www.facebook.com/maybelle.quidespatetico)
 _ _ _
 
