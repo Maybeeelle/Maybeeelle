@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 ### 👩‍💻About Me :
 <div align="left">
+
+### Favorite Colors:💜💗💙💛
   
 
 I'm a Computer Science student from the University of the Philippines-Los Banos💗.
